@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Balinese11
 - 👀 I’m interested in Web design and Software Testing.
 - ISTQB Certified Manual Software Tester.
-- 🌱 I’m currently learning Test Automation.
+- 🌱 I’m currently learning Test Automation. (C#,.Net,js)
 - 💞️ I’m looking to collaborate on behance.
 - 📫 How to reach me https://www.behance.net/balineseweb
 
